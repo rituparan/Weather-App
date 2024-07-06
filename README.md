@@ -4,6 +4,6 @@
 
   In this project, I have created a Responsive Weather Application. The project is built using HTML5, CSS3 & JavaScript.
 
-  <a href="https://cybrix2127.github.io/Weather-App/"><strong>➥ Live Demo</strong></a>
+  <a href="https://rituparan.github.io/Weather-App/"><strong>➥ Live Demo</strong></a>
 
 </div>
